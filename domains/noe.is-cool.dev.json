@@ -1,0 +1,10 @@
+{
+    "description": "Mon domaine/My Domain",
+
+    "domain": "is-cool.dev",
+    "subdomain": "noe",
+
+    "owner": {
+        "repo": "https://github.com/NoeFirst/web",
+        "email": "noecortinovis@icloud.com"
+    }
